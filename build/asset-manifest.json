@@ -1,8 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.baafdd8c.css",
-    "main.js": "/static/js/main.835c12a6.js",
+    "main.js": "/static/js/main.46a3901a.js",
+    "static/media/googlemaps.png": "/static/media/googlemaps.65f8e9505e1cb4fccfc8.png",
     "static/media/realestate.jpeg": "/static/media/realestate.44fd19f4c6872731149c.jpeg",
+    "static/media/todoapp.png": "/static/media/todoapp.b048471018427ad79823.png",
+    "static/media/coinprice.png": "/static/media/coinprice.203b8b06a9f22f3d85d9.png",
+    "static/media/minesweeper.png": "/static/media/minesweeper.320bd117872f353c4e0c.png",
+    "static/media/midipiano.png": "/static/media/midipiano.959bbaf3ab7ad2cafb0d.png",
     "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/CV.pdf": "/static/media/CV.4d34701af5109b0ebeb0.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -15,10 +20,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.baafdd8c.css.map": "/static/css/main.baafdd8c.css.map",
-    "main.835c12a6.js.map": "/static/js/main.835c12a6.js.map"
+    "main.46a3901a.js.map": "/static/js/main.46a3901a.js.map"
   },
   "entrypoints": [
     "static/css/main.baafdd8c.css",
-    "static/js/main.835c12a6.js"
+    "static/js/main.46a3901a.js"
   ]
 }
